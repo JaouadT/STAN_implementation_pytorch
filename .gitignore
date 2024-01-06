@@ -1,4 +1,4 @@
 .DS_Store
 data/train/*
 data/test/*
-modeling.ipynb
+./modeling.ipynb
