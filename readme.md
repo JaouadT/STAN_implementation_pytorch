@@ -13,7 +13,8 @@ Instructions on how to install and set up the project.
 
 ## Usage
 Instructions on how to use the project and any relevant examples.
-- The script uses a 5 fold cross validation, split the data or reach out for the splitted data and put it inside a 'data' folder. 
+- The script uses a 5 fold cross validation, split the data or reach out for the splitted data and put it inside a 'data' folder.
+```bash
 ├── data
 │   ├── test
 │   │   ├── images
@@ -22,12 +23,13 @@ Instructions on how to use the project and any relevant examples.
 │   │   │   ├── benign (1).png
 │   └── train
 │   │       ├── split0
-│    │      │   ├── images
-│    │      │   ├── masks
+│   │       │   ├── images
+│   │       │   ├── masks
 │   │       ├── split1
 │   │       ├── split2
 │   │       ├── split3
 │   │       ├── split4
+```
 - Run the script main.py
 
 
